@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Panth Patel!
 - 👀 I’m interested in Hardware and Firmware Engineering.
 - 🌱 I’m currently studying Mechatronics Engineering @ UWaterloo.
-- 💞️ I’m looking to collaborate on various projects.
+- 💞️ I’m looking to collaborate on projects in UW Orbital and Waterloo Rocketry
 - 📫 Reach me through linkedin.com/in/panthdevangbhaipatel
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love Hot Chocolate!
