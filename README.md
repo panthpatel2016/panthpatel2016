@@ -1,12 +1,10 @@
 # 👋 Hi, I’m Panth Patel
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=panthpatel2016)
-
 ## 📖 About Me
 - 🎓 **Mechatronics Engineering** @ University of Waterloo
 - 💼 **Electrical Engineering Intern** @ CADA & Associates (May 2025 – Present)
 - 🤖 **Firmware Developer** @ Waterloo Rocketry & UW Orbital
-- 🌱 Learning **React**, **Node.js**, and **Full-Stack Development**
+- 🌱 Learning Robotics & Controls, Firmware Development, and Embedded Systems Design
 - 👯 Seeking collaborations on **robotics**, **embedded systems**, and **AI** projects
 - ⚙️ Interests: Hardware & Firmware Engineering, Robotics, Control Systems, Embedded Software
 
@@ -16,8 +14,8 @@
 | Embedded Systems         | C, C++, STM32, Arduino, FreeRTOS, HAL         |
 | Communication Protocols  | CAN, I2C, SPI                                  |
 | Robotics & Control       | ROS2, Gazebo, Path Planning, PID, SLAM         |
-| Web Development          | React, TailwindCSS, Node.js, Express, REST API |
-| Languages                | Python, C, C++, JavaScript, TypeScript         |
+| Web Development          | React, Node.js, TypeScript, JavaScript |
+| Languages                | Python, C, C++       |
 | Tools                    | Git, VS Code, STM32CubeIDE, CMake, Docker      |
 
 ## 🚀 Projects
