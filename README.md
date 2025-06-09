@@ -4,9 +4,9 @@
 - 🎓 **Mechatronics Engineering** @ University of Waterloo
 - 💼 **Electrical Engineering Intern** @ CADA & Associates (May 2025 – Present)
 - 🤖 **Firmware Developer** @ Waterloo Rocketry & UW Orbital
-- 🌱 Learning Robotics & Controls, Firmware Development, and Embedded Systems Design
-- 👯 Seeking collaborations on **robotics**, **embedded systems**, and **AI** projects
-- ⚙️ Interests: Hardware & Firmware Engineering, Robotics, Control Systems, Embedded Software
+- 🌱 Learning Robotics & Controls, Computer Vision, and Embedded Systems Design
+- 👯 Seeking collaborations on **Robotics**, **Embedded Systems**, and **Computing** projects
+- ⚙️ Interests: Robotics, Embedded Software, Hardware & Firmware Engineering, Control Systems, Computer Vision
 
 ## 🛠️ Skills
 | **Domain**               | **Technologies & Tools**                       |
@@ -23,12 +23,11 @@
 ### 📡 Firmware & Robotics
 - **DroneProject**: Custom STM32 firmware for quadcopter (Summer 2025)
 - **PathPlanning**: Python/ROS2-based simulator for robotics path planning
-- **cansw_processor_canards**: State estimation & control for canards system ([GitHub](https://github.com/panthpatel2016))
-- **OBC-firmware**: On-Board Computer firmware for telemetry & thermal management ([GitHub](https://github.com/panthpatel2016))
+- **cansw_processor_canards**: State estimation & control for canards system
+- **OBC-firmware**: On-Board Computer firmware for telemetry & thermal management 
 
 ### 🌐 Web Applications
 - **Field Review App**: React & Node.js application for CADA & Associates
-- **Interactive Course Lookup**: Node.js CLI tool for University of Waterloo course data
 
 ## 📫 How to Reach Me
 - 🔗 LinkedIn: [panthdevangbhaipatel](https://www.linkedin.com/in/panthdevangbhaipatel)
@@ -37,6 +36,3 @@
 ## 📈 GitHub Stats
 ![Panth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=panthpatel2016&show_icons=true&theme=default)
 
----
-*I love sipping hot chocolate while debugging code!*  
-*— Cheers!*  
