@@ -12,7 +12,7 @@
 | **Domain**               | **Technologies & Tools**                       |
 |--------------------------|------------------------------------------------|
 | Embedded Systems         | C, C++, STM32, Arduino, FreeRTOS, HAL          |
-| Communication Protocols  | CAN, I2C, SPI                                  |
+| Communication Protocols  | CAN, I2C, UART                                 |
 | Robotics & Control       | ROS2, Esitmation, Gazebo, Path Planning, PID   |
 | Web Development          | React, Node.js, TypeScript, JavaScript         |
 | Languages                | Python, C, C++                                 |
