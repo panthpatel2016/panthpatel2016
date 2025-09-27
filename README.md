@@ -18,23 +18,15 @@ Click on the following if you want have a look a what I am doing currently :)
 ## 🛠️ Skills
 | **Domain**               | **Technologies & Tools**                       |
 |--------------------------|------------------------------------------------|
-| Embedded Systems         | C, C++, STM32, Arduino, FreeRTOS, HAL          |
-| Communication Protocols  | CAN, I2C, UART                                 |
-| Robotics & Control       | ROS2, Esitmation, Gazebo, Path Planning, PID   |
-| Web Development          | React, Node.js, TypeScript, JavaScript         |
-| Languages                | Python, C, C++                                 |
+| Embedded Systems         | STM32, Raspberry Pi, Arduino, HIL, FreeRTOS    |
+| Communication Protocols  | CAN, I2C, UART, Radio, HTTP, TCP               |
+| Robotics & Control       | ROS2, State Esitmation, PRM, Path Planning, PID|
+| Software                 | Python, C, C++, VHDL, Verilog                  |
 | Tools                    | Git, Linux, VS Code, STM32CubeIDE, Make, Docker|
-
-### 📡 Firmware & Robotics
-- **Image Mapping Quadcopter Project**: Custom STM32 firmware for quadcopter (Summer 2025)
-- **ROS2-Path Planning**: Python/ROS2-based simulator for robotics path planning
-- **Design Team Experience**: Worked on the firmware and controls for UW Orbital and Waterloo Rocketry
+| Firmware                 | Multithreading, IPC, Networking, Synchronisation|
 
 
 ## 📫 How to Reach Me
 - 🔗 LinkedIn: [panthdevangbhaipatel](https://www.linkedin.com/in/panthdevangbhaipatel)
 - ✉️ Email: pd27pate@uwaterloo.ca
-
-## 📈 GitHub Stats
-![Panth's GitHub Stats](https://github-readme-stats.vercel.app/api?username=panthpatel2016&show_icons=true&theme=default)
 
