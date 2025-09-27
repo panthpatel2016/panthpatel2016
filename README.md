@@ -9,8 +9,11 @@
 - ⚙️ Interests: Robotics, Embedded Software, Hardware & Firmware Engineering, Control Systems, Computer Vision
 
 Click on the following if you want have a look a what I am doing currently :)
-- **Waterloo Rocketry**: https://github.com/waterloo-rocketry/cansw_processor_canards/pull/77/files#diff-32cd713e55708801a66156082ed51ff8b5e753395b37b81c3b0dabb59b227018
-- **UW Orbital**: https://github.com/UWOrbital/OBC-firmware/pull/328 
+
+- **Waterloo Rocketry**: github.com/waterloo-rocketry/cansw_processor_canards/pull/77
+  
+- **UW Orbital**: github.com/UWOrbital/OBC-firmware/pull/328
+                  github.com/UWOrbital/OBC-firmware/pull/529
 
 ## 🛠️ Skills
 | **Domain**               | **Technologies & Tools**                       |
