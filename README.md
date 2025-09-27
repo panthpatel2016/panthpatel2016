@@ -12,7 +12,7 @@ Click on the following if you want have a look a what I am doing currently :)
 
 - **Waterloo Rocketry**: waterloo-rocketry/cansw_processor_canards/pull/77
   
-- **UW Orbital**: UWOrbital/OBC-firmware/pull/328
+- **UW Orbital**: UWOrbital/OBC-firmware/pull/328 \
                   UWOrbital/OBC-firmware/pull/529
 
 ## 🛠️ Skills
