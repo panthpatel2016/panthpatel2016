@@ -10,10 +10,10 @@
 
 Click on the following if you want have a look a what I am doing currently :)
 
-- **Waterloo Rocketry**: github.com/waterloo-rocketry/cansw_processor_canards/pull/77
+- **Waterloo Rocketry**: waterloo-rocketry/cansw_processor_canards/pull/77
   
-- **UW Orbital**: github.com/UWOrbital/OBC-firmware/pull/328
-                  github.com/UWOrbital/OBC-firmware/pull/529
+- **UW Orbital**: UWOrbital/OBC-firmware/pull/328
+                  UWOrbital/OBC-firmware/pull/529
 
 ## 🛠️ Skills
 | **Domain**               | **Technologies & Tools**                       |
