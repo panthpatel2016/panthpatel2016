@@ -1,5 +1,4 @@
-# 👋 Hi, I’m Panth Patel
-## More about me at https://panthpatel.framer.website/
+# 👋 Hi, I’m Panth Patel [Personal Portfolio](https://panthpatel.framer.website/)
 ## 📖 About Me
 - 🎓 **Mechatronics Engineering** @ University of Waterloo
 - 💼 **Embedded Software Engineering Intern** @ Kepler Communications (Jan 2026 – Apr 2026)
