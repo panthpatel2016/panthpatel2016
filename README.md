@@ -7,23 +7,13 @@
 - 🤖 **Embedded Software Engineer** @ UW Orbital (CubeSAT) & Waterloo Rocketry Design Teams 
 - 🌱 Learning Robotics & Controls, Embedded Software, Firmware, Electronics, and Computer Vision
 
-Click on the following if you want have a look a what I am doing currently :)
-
-- **Waterloo Rocketry**: waterloo-rocketry/cansw_processor_canards/pull/77
-  
-- **UW Orbital**: UWOrbital/OBC-firmware/pull/328 \
-                  UWOrbital/OBC-firmware/pull/529
-
 ## 🛠️ Skills
 | **Domain**               | **Technologies & Tools**                       |
 |--------------------------|------------------------------------------------|
-| Embedded Systems         | STM32, Raspberry Pi, Arduino, HIL, FreeRTOS    |
-| Communication Protocols  | CAN, I2C, UART, Radio, HTTP, TCP               |
+| Embedded Systems         | STM32, RM46, MSP430, RPi, HIL, FreeRTOS, Petalinux    |
+| Communication Protocols  | SPI, CAN, I2C, UART, HTTP, TCP. ZMQ               |
 | Robotics & Control       | ROS2, State Esitmation, PRM, Path Planning, PID|
-| Software                 | C, C++, Python, VHDL, Verilog                  |
-| Tools                    | Git, Linux, VS Code, STM32CubeIDE, Make, Docker|
-| Firmware                 | Multithreading, IPC, Networking, Synchronisation|
-
+| Software                 | C, C++, Python, VHDL, Verilog, MATLAB                  |
 
 ## 📫 How to Reach Me
 - 🔗 LinkedIn: [panthdevangbhaipatel](https://www.linkedin.com/in/panthdevangbhaipatel)
