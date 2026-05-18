@@ -11,7 +11,7 @@
 | **Domain**               | **Technologies & Tools**                       |
 |--------------------------|------------------------------------------------|
 | Embedded Systems         | STM32, RM46, MSP430, RPi, HIL, FreeRTOS, Petalinux    |
-| Communication Protocols  | SPI, CAN, I2C, UART, HTTP, TCP. ZMQ               |
+| Communication Protocols  | SPI, CAN, I2C, UART, HTTP, TCP, ZMQ               |
 | Robotics & Control       | ROS2, State Esitmation, PRM, Path Planning, PID|
 | Software                 | C, C++, Python, VHDL, Verilog, MATLAB                  |
 
